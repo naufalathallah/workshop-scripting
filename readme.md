@@ -1,3 +1,8 @@
-# Teman Bumil Automation Test
+# Workshop scripting
 
-This automation test script using Appium Flutter Driver and Webdriverio
+1. Clone repository
+2. Duplicate .env.example to .env
+3. Change DEVICE_NAME
+4. npm install
+5. Connect device
+6. npm run wdio
