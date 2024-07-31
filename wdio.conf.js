@@ -51,7 +51,6 @@ export const config = {
   capabilities: [
     {
       platformName: "Android",
-      "appium:platformVersion": process.env.PLATFORM_VERSION,
       "appium:deviveName": process.env.DEVICE_NAME,
       "appium:automationName": process.env.AUTOMATION_NAME,
       "appium:appPackage": process.env.PACKAGE_NAME,
