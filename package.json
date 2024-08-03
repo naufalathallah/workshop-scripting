@@ -1,5 +1,5 @@
 {
-  "name": "wdio-daily-meida",
+  "name": "workshop-scripting",
   "type": "module",
   "devDependencies": {
     "@wdio/appium-service": "^8.39.1",
